@@ -1,0 +1,9 @@
+My observations for the practice "Project: Customer Support Chatbot with Amazon Bedrock AgentCore"
+
+* AgentCore hides complexity - this makes it more easy for us students but depends on the framework from udacity/amazon
+* Walkthrough works well whereby I see agent flow as a win because of the visualization
+* Separtion in different agents what was teached before makes sense. I'm atm a little bit confused about the "one systemprompt" approach in the practice 1 - hoping I'll get a little bit more brightness in this the next lessions
+* System Prompt seems to work. Anyhow I see improvements in e.g. giving specific details about the hotline number and or concrete url for finding more information. This can be easily adapted as soon as there will be more details from reality.
+* In real time case more evaluation cases should be implemented with a couple of more use cases / questsions and examples
+
+Final Conclusion: This was a great practice and training material from udacity to dig into the details of agentic development; looking forward to the futher training content.
