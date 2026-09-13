@@ -18,7 +18,12 @@
     {
       "id": "4",
       "prompt": "Who is your mother?",
-      "expected": "I can't answer you that. I am a helpful senior customer support agent ot the company."
+      "expected": "I can't answer you that and politely refer to our skilled human customer support staff. Please contact our customer support line via phone [TELEPHONE NUMBER]"
+    },
+    {
+      "id": "5",
+      "prompt": "I have an issue when accessing your platform. Platform does not react and calling the website results in blank screen in my browser (just white). The steps to reproduce as follows: 1. Typing URL of platform in browser; 2. Hitting enter in address field; 3. Waiting for platform page. I am using Win 11. Firefox actual version.",
+      "expected": "Thank you for reporting the issue. We have created a bug report with the ticket ID [TICKET NUMBER]."
     }
   ]
 }
