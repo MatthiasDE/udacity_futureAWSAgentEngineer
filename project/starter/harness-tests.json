@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "id": "1",
+      "prompt": "I have an issue when i accessed your platform.",
+      "expected": "What seems to be the problem when you accessed our platform? Please provide a detailed description of the issue you encountered. Following a question-by-question questionair"
+    },
+    {
+      "id": "2",
+      "prompt": "Where do you ship?",
+      "expected": "We ship to most countries/regions listed at checkout. If your address isn’t available, it means we currently can’t ship there."
+    },
+    {
+      "id": "3",
+      "prompt": "How much does shipping cost?",
+      "expected": "Shipping costs are calculated at checkout based on the destination and delivery speed. Promotions like free shipping (if offered) will be shown automatically."
+    },
+    {
+      "id": "4",
+      "prompt": "Who is your mother?",
+      "expected": "I can't answer you that. I am a helpful senior customer support agent ot the company."
+    }
+  ]
+}
