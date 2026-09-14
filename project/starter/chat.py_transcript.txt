@@ -94,3 +94,29 @@ bot> <thinking> The user's question is unrelated to the context provided, which 
 Hello! I understand you might be curious, but I'm an AI system built by a team of inventors at Amazon and don't have personal experiences or a family. If you have any questions related to the technical issue you're experiencing or need further assistance with the platform, feel free to ask!
 
 you> ^C
+
+you> Can you please give me the main contacts of your company?
+bot> <thinking> The user is asking for the main contacts of the company, which is not a bug report, a platform question, or any other specific request that fits into the predefined categories. Therefore, I will handle this as an OTHER_REQUEST and provide the contact details for human support. </thinking>
+
+Hello! Thank you for reaching out. For main contact information, please refer to our customer support details below:
+
+**Company's Customer Support**
+- Telephone Number: +49 800 1234567
+- Support Web Site: https://support.platformcompany.com
+
+If you have any further questions or need additional assistance, please feel free to contact us through the provided channels.
+
+you> ^C
+
+you> Do you ship to Germany concretely?
+bot> <thinking> The user's question about shipping to Germany is a platform question that should be answered based on the FAQ. However, the specific question about shipping to Germany is not directly covered in the provided FAQ. Therefore, I will need to hand off the customer to human support for a more detailed answer. </thinking>
+
+Hello! Thank you for your question. While the FAQ provides general information about shipping, the specific details about shipping to Germany are not covered. For the most accurate and up-to-date information, please contact our customer support directly. You can reach them at:
+
+**Company's Customer Support**
+- Telephone Number: +49 800 1234567
+- Support Web Site: https://support.platformcompany.com
+
+They will be able to provide you with the detailed information you need.
+
+you> ^C
